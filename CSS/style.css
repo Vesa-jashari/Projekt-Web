@@ -37,3 +37,15 @@
 .navbar ul li a:hover {
     color: #E99A32;
 }
+
+.register {
+    background-color: #E99A32;
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: black !important;
+}
+
+.register:hover {
+    background-color: #D88720;
+    color: white !important;
+}
