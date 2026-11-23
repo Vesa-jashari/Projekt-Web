@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding:0;
+   
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+    background-color: #21273d;
+    padding: 20px 50px;
+    
+}
+
+.logo a{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.navbar ul {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    margin-left:auto;
+  
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar ul li a:hover {
+    color: #E99A32;
+}
