@@ -49,3 +49,12 @@
     background-color: #D88720;
     color: white !important;
 }
+
+.navbar ul li a.active {
+    color:#E99A32;
+}
+
+.navbar ul li a.register.active {
+    background-color: #D88720;
+    color: white !important;
+}
